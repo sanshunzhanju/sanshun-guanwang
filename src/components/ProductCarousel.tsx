@@ -75,7 +75,7 @@ const ProductCarousel = () => {
 
                       {/* 查看详情按钮 */}
                       <Link
-                        href={`/products/${product.id}`}
+                        href={`/${currentLanguage}/products/${product.id}`}
                         className="inline-flex items-center justify-center w-full px-4 py-2 bg-accent text-white rounded-lg hover:bg-accent/90 transition-colors font-medium"
                       >
                         查看详情

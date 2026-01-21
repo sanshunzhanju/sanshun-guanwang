@@ -9,6 +9,6 @@ export default createMiddleware({
 });
 
 export const config = {
-  // 只匹配需要国际化的路由
-  matcher: ['/((?!api|_next|.*\..*).*)']
+  // 只匹配需要国际化的路由，排除登录页面
+  matcher: ['/((?!api|_next|.*\..*|login|admin).*)']
 };

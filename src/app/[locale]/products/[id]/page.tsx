@@ -184,7 +184,7 @@ const ProductDetailPage = ({ params }: { params: { id: string } }) => {
                       {relatedProduct.description[currentLanguage]}
                     </p>
                     <a
-                      href={`/products/${relatedProduct.id}`}
+                      href={`/${currentLanguage}/products/${relatedProduct.id}`}
                       className="inline-flex items-center text-accent font-medium hover:text-accent/80 transition-colors"
                     >
                       查看详情

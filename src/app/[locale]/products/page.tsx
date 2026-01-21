@@ -93,7 +93,7 @@ const ProductListPage = () => {
 
                   {/* 查看详情按钮 */}
                   <Link
-                    href={`/products/${product.id}`}
+                    href={`/${currentLanguage}/products/${product.id}`}
                     className="inline-flex items-center text-accent font-medium hover:text-accent/80 transition-colors"
                   >
                     查看详情
