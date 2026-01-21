@@ -1,0 +1,77 @@
+{
+  "common": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品中心",
+    "contact": "联系我们",
+    "viewDetails": "查看详情",
+    "viewAllProducts": "查看全部产品",
+    "download": "下载",
+    "submit": "提交",
+    "name": "姓名",
+    "email": "邮箱",
+    "phone": "电话",
+    "message": "留言",
+    "required": "* 必填项",
+    "submitSuccess": "留言提交成功，我们将尽快与您联系！"
+  },
+  "navbar": {
+    "logo": "三顺科技",
+    "language": "语言",
+    "chinese": "中文",
+    "english": "English",
+    "japanese": "日本語"
+  },
+  "hero": {
+    "title": "专业的工业自动化解决方案提供商",
+    "subtitle": "致力于为客户提供高质量的工业机器人、自动化设备和传感器技术，推动制造业数字化转型。",
+    "viewProducts": "查看产品",
+    "contactUs": "联系我们"
+  },
+  "products": {
+    "hotProducts": "热门产品",
+    "productCenter": "产品中心",
+    "productDescription": "产品描述",
+    "specifications": "规格参数",
+    "productManual": "产品手册",
+    "relatedProducts": "相关产品",
+    "industrialRobot": "工业机械臂",
+    "automationEquipment": "自动化设备",
+    "sensor": "传感器",
+    "allProducts": "全部产品",
+    "productCount": "共 {count} 个产品",
+    "addProduct": "+ 添加产品"
+  },
+  "about": {
+    "aboutUs": "关于我们",
+    "companyProfile": "公司简介",
+    "visionAndMission": "愿景与使命",
+    "vision": "愿景",
+    "mission": "使命",
+    "developmentHistory": "发展历程",
+    "certificates": "资质证书",
+    "yearsOfExperience": "年行业经验",
+    "customerCases": "客户案例"
+  },
+  "contact": {
+    "contactUs": "联系我们",
+    "contactInformation": "联系方式",
+    "companyAddress": "公司地址",
+    "phoneNumber": "联系电话",
+    "emailAddress": "电子邮箱",
+    "workingHours": "工作时间",
+    "companyMap": "公司地图",
+    "messageForm": "留言表单",
+    "submitMessage": "提交留言",
+    "mapLoading": "地图加载中..."
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "contactUs": "联系方式",
+    "subscribe": "订阅我们",
+    "subscribeDescription": "订阅我们的 newsletter，获取最新产品和服务信息。",
+    "emailPlaceholder": "您的邮箱地址",
+    "subscribeButton": "订阅",
+    "copyright": "© 2024 三顺科技有限公司. 保留所有权利."
+  }
+}

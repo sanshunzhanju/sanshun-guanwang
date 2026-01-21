@@ -1,0 +1,77 @@
+{
+  "common": {
+    "home": "ホーム",
+    "about": "会社紹介",
+    "products": "製品センター",
+    "contact": "お問い合わせ",
+    "viewDetails": "詳細を見る",
+    "viewAllProducts": "すべての製品を見る",
+    "download": "ダウンロード",
+    "submit": "送信",
+    "name": "名前",
+    "email": "メール",
+    "phone": "電話",
+    "message": "メッセージ",
+    "required": "* 必須項目",
+    "submitSuccess": "メッセージが送信されました。すぐにお問い合わせいたします！"
+  },
+  "navbar": {
+    "logo": "三順科技",
+    "language": "言語",
+    "chinese": "中文",
+    "english": "English",
+    "japanese": "日本語"
+  },
+  "hero": {
+    "title": "専門的な産業自動化ソリューションプロバイダー",
+    "subtitle": "顧客に高品質な産業用ロボット、自動化機器、センサー技術を提供し、製造業のデジタル変革を推進することに専念しています。",
+    "viewProducts": "製品を見る",
+    "contactUs": "お問い合わせ"
+  },
+  "products": {
+    "hotProducts": "人気製品",
+    "productCenter": "製品センター",
+    "productDescription": "製品説明",
+    "specifications": "仕様",
+    "productManual": "製品マニュアル",
+    "relatedProducts": "関連製品",
+    "industrialRobot": "産業用ロボット",
+    "automationEquipment": "自動化機器",
+    "sensor": "センサー",
+    "allProducts": "すべての製品",
+    "productCount": "合計 {count} 製品",
+    "addProduct": "+ 製品を追加"
+  },
+  "about": {
+    "aboutUs": "会社紹介",
+    "companyProfile": "会社概要",
+    "visionAndMission": "ビジョンと使命",
+    "vision": "ビジョン",
+    "mission": "使命",
+    "developmentHistory": "発展の歴史",
+    "certificates": "資格証明",
+    "yearsOfExperience": "年の経験",
+    "customerCases": "顧客事例"
+  },
+  "contact": {
+    "contactUs": "お問い合わせ",
+    "contactInformation": "連絡先情報",
+    "companyAddress": "会社住所",
+    "phoneNumber": "電話番号",
+    "emailAddress": "メールアドレス",
+    "workingHours": "営業時間",
+    "companyMap": "会社地図",
+    "messageForm": "メッセージフォーム",
+    "submitMessage": "メッセージを送信",
+    "mapLoading": "地図を読み込み中..."
+  },
+  "footer": {
+    "quickLinks": "クイックリンク",
+    "contactUs": "お問い合わせ",
+    "subscribe": "購読",
+    "subscribeDescription": "ニュースレターに登録して、最新の製品とサービス情報を入手してください。",
+    "emailPlaceholder": "メールアドレス",
+    "subscribeButton": "購読",
+    "copyright": "© 2024 三順科技有限公司. 全著作権所有."
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "p001",
+    "category": "industrial-robot",
+    "name": { "cn": "工业机械臂 X1", "en": "Industrial Robot X1", "jp": "産業用ロボット X1" },
+    "description": { 
+      "cn": "高精度工业机械臂，适用于自动化生产，负载10kg，臂长1800mm。", 
+      "en": "High precision industrial robot for automated production, payload 10kg, arm length 1800mm.", 
+      "jp": "高精度産業用ロボット、自動化生産に適用、ペイロード10kg、アーム長1800mm。"
+    },
+    "specs": [ 
+      { "label": { "cn": "负载", "en": "Payload" }, "value": "10kg" },
+      { "label": { "cn": "臂长", "en": "Arm Length" }, "value": "1800mm" },
+      { "label": { "cn": "重复定位精度", "en": "Repeatability" }, "value": "±0.05mm" },
+      { "label": { "cn": "工作范围", "en": "Work Envelope" }, "value": "360°" }
+    ],
+    "images": ["/assets/p1-main.jpg", "/assets/p1-detail.jpg"],
+    "videos": [{"url": "https://example.com/p1-demo.mp4", "cover": "/assets/p1-cover.jpg"}],
+    "manual": "/assets/p1-manual.pdf",
+    "isHot": true
+  },
+  {
+    "id": "p002",
+    "category": "automation-equipment",
+    "name": { "cn": "自动化生产线系统", "en": "Automation Production Line System", "jp": "自動化生産ラインシステム" },
+    "description": { 
+      "cn": "定制化自动化生产线，提高生产效率，降低人工成本。", 
+      "en": "Customized automation production line, improve production efficiency, reduce labor costs.", 
+      "jp": "カスタマイズされた自動化生産ライン、生産効率を向上させ、人件費を削減します。"
+    },
+    "specs": [ 
+      { "label": { "cn": "生产效率", "en": "Production Efficiency" }, "value": "1000pcs/h" },
+      { "label": { "cn": "合格率", "en": "Pass Rate" }, "value": "99.9%" },
+      { "label": { "cn": "控制方式", "en": "Control Method" }, "value": "PLC" },
+      { "label": { "cn": "适用产品", "en": "Applicable Products" }, "value": "电子元件" }
+    ],
+    "images": ["/assets/p2-main.jpg", "/assets/p2-detail.jpg"],
+    "videos": [],
+    "manual": "/assets/p2-manual.pdf",
+    "isHot": true
+  },
+  {
+    "id": "p003",
+    "category": "sensor",
+    "name": { "cn": "高精度位移传感器", "en": "High Precision Displacement Sensor", "jp": "高精度変位センサー" },
+    "description": { 
+      "cn": "高精度位移传感器，测量范围0-100mm，精度±0.01mm。", 
+      "en": "High precision displacement sensor, measuring range 0-100mm, accuracy ±0.01mm.", 
+      "jp": "高精度変位センサー、測定範囲0-100mm、精度±0.01mm。"
+    },
+    "specs": [ 
+      { "label": { "cn": "测量范围", "en": "Measuring Range" }, "value": "0-100mm" },
+      { "label": { "cn": "精度", "en": "Accuracy" }, "value": "±0.01mm" },
+      { "label": { "cn": "输出信号", "en": "Output Signal" }, "value": "4-20mA" },
+      { "label": { "cn": "防护等级", "en": "Protection Level" }, "value": "IP67" }
+    ],
+    "images": ["/assets/p3-main.jpg", "/assets/p3-detail.jpg"],
+    "videos": [],
+    "manual": "/assets/p3-manual.pdf",
+    "isHot": true
+  },
+  {
+    "id": "p004",
+    "category": "industrial-robot",
+    "name": { "cn": "协作机器人 C1", "en": "Collaborative Robot C1", "jp": "コラボロボット C1" },
+    "description": { 
+      "cn": "人机协作机器人，负载5kg，安全可靠，易于编程。", 
+      "en": "Human-robot collaboration robot, payload 5kg, safe and reliable, easy to program.", 
+      "jp": "人間協調ロボット、ペイロード5kg、安全で信頼性が高く、プログラミングが容易です。"
+    },
+    "specs": [ 
+      { "label": { "cn": "负载", "en": "Payload" }, "value": "5kg" },
+      { "label": { "cn": "臂长", "en": "Arm Length" }, "value": "1500mm" },
+      { "label": { "cn": "重复定位精度", "en": "Repeatability" }, "value": "±0.03mm" },
+      { "label": { "cn": "安全等级", "en": "Safety Level" }, "value": "ISO 13849-1 Cat.3 PL d" }
+    ],
+    "images": ["/assets/p4-main.jpg", "/assets/p4-detail.jpg"],
+    "videos": [{"url": "https://example.com/p4-demo.mp4", "cover": "/assets/p4-cover.jpg"}],
+    "manual": "/assets/p4-manual.pdf",
+    "isHot": false
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "viewDetails": "View Details",
+    "viewAllProducts": "View All Products",
+    "download": "Download",
+    "submit": "Submit",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "required": "* Required",
+    "submitSuccess": "Message submitted successfully, we will contact you soon!"
+  },
+  "navbar": {
+    "logo": "Sanshun Technology",
+    "language": "Language",
+    "chinese": "中文",
+    "english": "English",
+    "japanese": "日本語"
+  },
+  "hero": {
+    "title": "Professional Industrial Automation Solutions Provider",
+    "subtitle": "Committed to providing customers with high-quality industrial robots, automation equipment and sensor technology, promoting the digital transformation of manufacturing industry.",
+    "viewProducts": "View Products",
+    "contactUs": "Contact Us"
+  },
+  "products": {
+    "hotProducts": "Hot Products",
+    "productCenter": "Product Center",
+    "productDescription": "Product Description",
+    "specifications": "Specifications",
+    "productManual": "Product Manual",
+    "relatedProducts": "Related Products",
+    "industrialRobot": "Industrial Robot",
+    "automationEquipment": "Automation Equipment",
+    "sensor": "Sensor",
+    "allProducts": "All Products",
+    "productCount": "Total {count} products",
+    "addProduct": "+ Add Product"
+  },
+  "about": {
+    "aboutUs": "About Us",
+    "companyProfile": "Company Profile",
+    "visionAndMission": "Vision and Mission",
+    "vision": "Vision",
+    "mission": "Mission",
+    "developmentHistory": "Development History",
+    "certificates": "Certificates",
+    "yearsOfExperience": "Years of Experience",
+    "customerCases": "Customer Cases"
+  },
+  "contact": {
+    "contactUs": "Contact Us",
+    "contactInformation": "Contact Information",
+    "companyAddress": "Company Address",
+    "phoneNumber": "Phone Number",
+    "emailAddress": "Email Address",
+    "workingHours": "Working Hours",
+    "companyMap": "Company Map",
+    "messageForm": "Message Form",
+    "submitMessage": "Submit Message",
+    "mapLoading": "Map loading..."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "subscribe": "Subscribe",
+    "subscribeDescription": "Subscribe to our newsletter to get the latest product and service information.",
+    "emailPlaceholder": "Your email address",
+    "subscribeButton": "Subscribe",
+    "copyright": "© 2024 Sanshun Technology Co., Ltd. All rights reserved."
+  }
+}

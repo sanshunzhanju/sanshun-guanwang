@@ -1,0 +1,148 @@
+{
+  "about": {
+    "cn": "三顺科技有限公司成立于2020年，是一家专业的B2B解决方案提供商，致力于为客户提供高质量的工业自动化产品和服务。我们拥有一支经验丰富的研发团队，专注于工业机器人、自动化设备和传感器技术的创新与应用。",
+    "en": "Sanshun Technology Co., Ltd. was established in 2020, is a professional B2B solutions provider, committed to providing customers with high-quality industrial automation products and services. We have an experienced R&D team, focusing on the innovation and application of industrial robots, automation equipment and sensor technology.",
+    "jp": "三順科技有限公司は2020年に設立され、専門的なB2Bソリューションプロバイダーであり、顧客に高品質な産業自動化製品とサービスを提供することに専念しています。私たちは経験豊富な研究開発チームを擁し、産業用ロボット、自動化機器、センサー技術の革新と応用に注力しています。"
+  },
+  "vision": {
+    "cn": "成为全球领先的工业自动化解决方案提供商，推动制造业数字化转型。",
+    "en": "To become a global leading provider of industrial automation solutions, driving the digital transformation of manufacturing industry.",
+    "jp": "世界をリードする産業自動化ソリューションプロバイダーになり、製造業のデジタル変革を推進します。"
+  },
+  "mission": {
+    "cn": "通过技术创新，为客户创造价值，为员工创造机会，为社会创造财富。",
+    "en": "Through technological innovation, create value for customers, create opportunities for employees, and create wealth for society.",
+    "jp": "技術革新を通じて、顧客に価値を創造し、従業員に機会を創造し、社会に富を創造します。"
+  },
+  "history": [
+    {
+      "year": "2020",
+      "title": {
+        "cn": "公司成立",
+        "en": "Company Established",
+        "jp": "会社設立"
+      },
+      "description": {
+        "cn": "三顺科技有限公司在上海正式成立，专注于工业自动化领域。",
+        "en": "Sanshun Technology Co., Ltd. was officially established in Shanghai, focusing on the field of industrial automation.",
+        "jp": "三順科技有限公司は上海で正式に設立され、産業自動化分野に専念しています。"
+      }
+    },
+    {
+      "year": "2021",
+      "title": {
+        "cn": "首款产品发布",
+        "en": "First Product Launch",
+        "jp": "初の製品発売"
+      },
+      "description": {
+        "cn": "发布首款工业机械臂X1，获得市场广泛认可。",
+        "en": "Launched the first industrial robot arm X1, which was widely recognized by the market.",
+        "jp": "初の産業用ロボットアームX1を発売し、市場から広く認められました。"
+      }
+    },
+    {
+      "year": "2022",
+      "title": {
+        "cn": "研发中心成立",
+        "en": "R&D Center Established",
+        "jp": "研究開発センター設立"
+      },
+      "description": {
+        "cn": "在深圳成立研发中心，加强技术创新能力。",
+        "en": "Established an R&D center in Shenzhen to strengthen technological innovation capabilities.",
+        "jp": "深圳に研究開発センターを設立し、技術革新能力を強化しました。"
+      }
+    },
+    {
+      "year": "2023",
+      "title": {
+        "cn": "国际市场拓展",
+        "en": "International Market Expansion",
+        "jp": "国際市場拡大"
+      },
+      "description": {
+        "cn": "产品出口到日本、韩国、东南亚等国家和地区。",
+        "en": "Products are exported to Japan, South Korea, Southeast Asia and other countries and regions.",
+        "jp": "製品は日本、韓国、東南アジアなどの国と地域に輸出されています。"
+      }
+    },
+    {
+      "year": "2024",
+      "title": {
+        "cn": "智能制造升级",
+        "en": "Intelligent Manufacturing Upgrade",
+        "jp": "スマート製造アップグレード"
+      },
+      "description": {
+        "cn": "推出智能制造解决方案，助力客户实现数字化转型。",
+        "en": "Launched intelligent manufacturing solutions to help customers achieve digital transformation.",
+        "jp": "スマート製造ソリューションを発表し、顧客のデジタル変革を支援します。"
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert001",
+      "name": { "cn": "ISO 9001 质量管理体系认证", "en": "ISO 9001 Quality Management System Certification", "jp": "ISO 9001品質管理システム認証" },
+      "image": "/assets/cert001.jpg"
+    },
+    {
+      "id": "cert002",
+      "name": { "cn": "ISO 14001 环境管理体系认证", "en": "ISO 14001 Environmental Management System Certification", "jp": "ISO 14001環境管理システム認証" },
+      "image": "/assets/cert002.jpg"
+    },
+    {
+      "id": "cert003",
+      "name": { "cn": "OHSAS 18001 职业健康安全管理体系认证", "en": "OHSAS 18001 Occupational Health and Safety Management System Certification", "jp": "OHSAS 18001職業健康安全管理システム認証" },
+      "image": "/assets/cert003.jpg"
+    },
+    {
+      "id": "cert004",
+      "name": { "cn": "CE 认证", "en": "CE Certification", "jp": "CE認証" },
+      "image": "/assets/cert004.jpg"
+    }
+  ],
+  "advantages": [
+    {
+      "id": "adv001",
+      "icon": "innovative",
+      "title": { "cn": "技术创新", "en": "Technological Innovation", "jp": "技術革新" },
+      "description": {
+        "cn": "拥有一支经验丰富的研发团队，持续进行技术创新，保持产品的竞争力。",
+        "en": "We have an experienced R&D team, continuously carry out technological innovation, and maintain the competitiveness of products.",
+        "jp": "経験豊富な研究開発チームを擁し、継続的に技術革新を行い、製品の競争力を維持しています。"
+      }
+    },
+    {
+      "id": "adv002",
+      "icon": "quality",
+      "title": { "cn": "品质保证", "en": "Quality Assurance", "jp": "品質保証" },
+      "description": {
+        "cn": "严格的质量管理体系，确保产品的高品质和可靠性。",
+        "en": "Strict quality management system to ensure high quality and reliability of products.",
+        "jp": "厳格な品質管理システムにより、製品の高品質と信頼性を確保します。"
+      }
+    },
+    {
+      "id": "adv003",
+      "icon": "service",
+      "title": { "cn": "优质服务", "en": "Excellent Service", "jp": "優れたサービス" },
+      "description": {
+        "cn": "提供全方位的售前、售中和售后服务，满足客户的需求。",
+        "en": "Provide comprehensive pre-sales, in-sales and after-sales services to meet customer needs.",
+        "jp": "顧客のニーズを満たすために、全方位の販売前、販売中、販売後のサービスを提供します。"
+      }
+    },
+    {
+      "id": "adv004",
+      "icon": "customization",
+      "title": { "cn": "定制化解决方案", "en": "Customized Solutions", "jp": "カスタマイズされたソリューション" },
+      "description": {
+        "cn": "根据客户的需求，提供定制化的解决方案，满足不同行业的应用需求。",
+        "en": "According to customer needs, provide customized solutions to meet the application needs of different industries.",
+        "jp": "顧客のニーズに応じて、カスタマイズされたソリューションを提供し、異なる業界のアプリケーションニーズを満たします。"
+      }
+    }
+  ]
+}

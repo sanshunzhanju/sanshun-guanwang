@@ -1,0 +1,74 @@
+[
+  {
+    "id": "category-1",
+    "name": "抽屉式展柜",
+    "image": "https://picsum.photos/seed/cat1/100/100",
+    "href": "/products?category=industrial-robot"
+  },
+  {
+    "id": "category-2",
+    "name": "平推拉展柜",
+    "image": "https://picsum.photos/seed/cat2/100/100",
+    "href": "/products?category=automation-equipment"
+  },
+  {
+    "id": "category-3",
+    "name": "直抽拉展柜",
+    "image": "https://picsum.photos/seed/cat3/100/100",
+    "href": "/products?category=sensors"
+  },
+  {
+    "id": "category-4",
+    "name": "斜抽拉展柜",
+    "image": "https://picsum.photos/seed/cat4/100/100",
+    "href": "/products?category=control-systems"
+  },
+  {
+    "id": "category-5",
+    "name": "冲孔板类",
+    "image": "https://picsum.photos/seed/cat5/100/100",
+    "href": "/products?category=motor-drives"
+  },
+  {
+    "id": "category-6",
+    "name": "直板包边展示",
+    "image": "https://picsum.photos/seed/cat6/100/100",
+    "href": "/products?category=vision-inspection"
+  },
+  {
+    "id": "category-7",
+    "name": "落地抽拉展架",
+    "image": "https://picsum.photos/seed/cat7/100/100",
+    "href": "/products?category=pneumatic-components"
+  },
+  {
+    "id": "category-8",
+    "name": "翻页类展架",
+    "image": "https://picsum.photos/seed/cat8/100/100",
+    "href": "/products?category=hydraulic-equipment"
+  },
+  {
+    "id": "category-9",
+    "name": "瓷砖类展示架",
+    "image": "https://picsum.photos/seed/cat9/100/100",
+    "href": "/products?category=industrial-instruments"
+  },
+  {
+    "id": "category-10",
+    "name": "木地板类展示架",
+    "image": "https://picsum.photos/seed/cat10/100/100",
+    "href": "/products?category=cable-connections"
+  },
+  {
+    "id": "category-11",
+    "name": "木门类展示架",
+    "image": "https://picsum.photos/seed/cat11/100/100",
+    "href": "/products?category=protective-equipment"
+  },
+  {
+    "id": "category-12",
+    "name": "其他类展示架",
+    "image": "https://picsum.photos/seed/cat12/100/100",
+    "href": "/products?category=other-equipment"
+  }
+]
